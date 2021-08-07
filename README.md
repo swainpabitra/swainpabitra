@@ -24,6 +24,7 @@ I'm Pabitra, Working at L&T Technology Services as a Technical Lead!
 📝 Favorite editor for Code: VS Code & Visual Studio IDE
 
 📝 Favorite editor for Query: MS SQL Server & SSMS
-
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=swainpabitra" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swainpabitra" />
+</div>
