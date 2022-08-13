@@ -11,11 +11,13 @@ Hi there 👋
 
 I'm Pabitra, Working at L&T Technology Services as a Technical Lead!
 
-🔭 I’m currently working on Philips Vital Health Project.
+🔭 I,m currently working on Halliburton's MSS(Mercury Surface System) Project.
+
+🔭 I had worked on Philips Vital Health Project.
 
 🌱 I’m currently learning Python, CI/CD pipelines like Jenkins, Terraforms.
 
-🤔 I’m looking for help with Other people and spacially with my team members.
+🤔 I am always prepared to work with people and help them to resolve their issues and concerns.
 
 💬 Ask me about anything, I will try to findout solution.
 
